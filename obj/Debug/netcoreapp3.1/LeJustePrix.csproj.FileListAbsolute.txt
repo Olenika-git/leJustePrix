@@ -1,0 +1,13 @@
+C:\Users\akine\source\repos\LeJustePrix\bin\Debug\netcoreapp3.1\LeJustePrix.exe
+C:\Users\akine\source\repos\LeJustePrix\bin\Debug\netcoreapp3.1\LeJustePrix.deps.json
+C:\Users\akine\source\repos\LeJustePrix\bin\Debug\netcoreapp3.1\LeJustePrix.runtimeconfig.json
+C:\Users\akine\source\repos\LeJustePrix\bin\Debug\netcoreapp3.1\LeJustePrix.runtimeconfig.dev.json
+C:\Users\akine\source\repos\LeJustePrix\bin\Debug\netcoreapp3.1\LeJustePrix.dll
+C:\Users\akine\source\repos\LeJustePrix\bin\Debug\netcoreapp3.1\LeJustePrix.pdb
+C:\Users\akine\source\repos\LeJustePrix\obj\Debug\netcoreapp3.1\LeJustePrix.csproj.AssemblyReference.cache
+C:\Users\akine\source\repos\LeJustePrix\obj\Debug\netcoreapp3.1\LeJustePrix.AssemblyInfoInputs.cache
+C:\Users\akine\source\repos\LeJustePrix\obj\Debug\netcoreapp3.1\LeJustePrix.AssemblyInfo.cs
+C:\Users\akine\source\repos\LeJustePrix\obj\Debug\netcoreapp3.1\LeJustePrix.csproj.CoreCompileInputs.cache
+C:\Users\akine\source\repos\LeJustePrix\obj\Debug\netcoreapp3.1\LeJustePrix.dll
+C:\Users\akine\source\repos\LeJustePrix\obj\Debug\netcoreapp3.1\LeJustePrix.pdb
+C:\Users\akine\source\repos\LeJustePrix\obj\Debug\netcoreapp3.1\LeJustePrix.genruntimeconfig.cache
